@@ -66,6 +66,6 @@ flutter run
 👥 Équipe de Développement
 Projet réalisé en équipe de 3 personnes :
 
-Développeur 1(Marc) : Architecture, Modèles de données & Navigation globale.
-Développeur (2Adams) : Écran d'accueil, Widgets réutilisables & Thème sombre.
-Développeur 3(Nelson) : Page Shorts, Lecteur Vidéo & Responsive design.
+Développeur 1 : Architecture, Modèles de données & Navigation globale.
+Développeur 2 : Écran d'accueil, Widgets réutilisables & Thème sombre.
+Développeur 3 : Page Shorts, Lecteur Vidéo & Responsive design.
